@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">My Application</string>
+    <string name="action_get_data">GET DATA</string>
+    <string name="title_enter_post">Enter Post</string>
+    <string name="hint_title">title</string>
+    <string name="hint_body">Body</string>
+    <string name="action_submit">Submit</string>
 </resources>
